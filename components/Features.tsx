@@ -1,5 +1,5 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Brain, Search, Clock, Wrench, Settings } from 'lucide-react'
+import { Search, Clock, Wrench, Settings } from 'lucide-react'
 
 const features = [
   {
